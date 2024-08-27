@@ -23,10 +23,10 @@ public class Recpalin {
         s.close();
         int reversed=palin(num);
         if(num==reversed){
-            System.out.println(num+" is a Palindrome Number");
+            System.out.println(num+" is a Palindrome number");
         }
         else{
-            System.out.println(num+" is not a Palindrome Number");
+            System.out.println(num+" is not a Palindrome number");
         }
     }
 }
