@@ -29,7 +29,7 @@ public class BinarySearch {
     System.out.print(k+" ");
     }
     System.out.println();
-    System.out.println("Enter Element to Search in Array : ");
+    System.out.println("Enter Element to Search : ");
     int ele=s.nextInt();
     s.close();
     int start=0;
