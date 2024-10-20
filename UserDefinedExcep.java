@@ -10,6 +10,12 @@ public class UserDefinedExcep {
             } else {
                 System.out.println("You have the right to vote.");
             }
+            System.out.print("Enter your Name : ");
+            String name = s.next();
+            System.out.print("Enter Your City/Village Name: ");
+            String city = s.next();
+            System.out.println("::Voting Details::");
+            System.out.println("Name : "+name+"\nAge : "+age+"\nVoting Area : "+city);
         } catch (Exception e) {
             System.out.println(e);
         }  finally {
