@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class Bubblesort {
- static void Bsort{
+ static void Bsort(int a[]){
+ int n=a.length;
  int temp;
  boolean swap=false;
         for(int i=0;i<n-1;i++)
@@ -37,10 +38,11 @@ public class Bubblesort {
         for (int j : a) {
             System.out.print(j+" ");
         }
-        
+        Bsort(a);
         System.out.println("\nSorted Array : ");
         for (int j : a) {
             System.out.print(j+" ");
         }
  }    
 }
+
