@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AVLTree",
+            "request": "launch",
+            "mainClass": "AVLTree",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "MaxHeap",
+            "request": "launch",
+            "mainClass": "MaxHeap",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
