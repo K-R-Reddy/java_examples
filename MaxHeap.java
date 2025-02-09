@@ -1,4 +1,3 @@
-import java.util.*;
 public class MaxHeap {
     int a[];
     int maxSize,heapSize;

@@ -2,6 +2,7 @@ import java.util.*;
 public class BiconnectedComponents {
     private int V, time;
     private List<Integer>[] adj;
+    @SuppressWarnings("unchecked")
     public BiconnectedComponents(int v) {
         V = v;
         adj = new ArrayList[V];
