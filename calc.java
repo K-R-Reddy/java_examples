@@ -9,15 +9,15 @@ public class calc {
         b=c.nextInt();
         c.close();
         switch (ch) {
-            case '+':System.out.println(+(a+b));
+            case '+':System.out.println(a+b);
                 break;
-            case '-':System.out.println(+(a-b));
+            case '-':System.out.println(a-b);
                 break;
-            case '*':System.out.println(+(a*b));
+            case '*':System.out.println(a*b);
                 break;
-            case '/':System.out.println(+(a/b));
+            case '/':System.out.println(a/b);
                 break;
-            case '%':System.out.println(+(a%b));
+            case '%':System.out.println(a%b);
                 break;
             default:
             System.out.println("INVAILD OPERATOR");

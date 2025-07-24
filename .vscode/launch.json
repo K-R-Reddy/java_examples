@@ -6,6 +6,300 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Networking7",
+            "request": "launch",
+            "mainClass": "Networking7",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Networking6",
+            "request": "launch",
+            "mainClass": "Networking6",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Networking4",
+            "request": "launch",
+            "mainClass": "Networking4",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Networking5",
+            "request": "launch",
+            "mainClass": "Networking5",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Networking3",
+            "request": "launch",
+            "mainClass": "Networking3",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Networking2",
+            "request": "launch",
+            "mainClass": "Networking2",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Networking1",
+            "request": "launch",
+            "mainClass": "Networking1",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing21",
+            "request": "launch",
+            "mainClass": "Swing21",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing20",
+            "request": "launch",
+            "mainClass": "Swing20",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing19",
+            "request": "launch",
+            "mainClass": "Swing19",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing18",
+            "request": "launch",
+            "mainClass": "Swing18",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing17",
+            "request": "launch",
+            "mainClass": "Swing17",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing16",
+            "request": "launch",
+            "mainClass": "Swing16",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing15",
+            "request": "launch",
+            "mainClass": "Swing15",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing14",
+            "request": "launch",
+            "mainClass": "Swing14",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing13",
+            "request": "launch",
+            "mainClass": "Swing13",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing12",
+            "request": "launch",
+            "mainClass": "Swing12",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing11",
+            "request": "launch",
+            "mainClass": "Swing11",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing10",
+            "request": "launch",
+            "mainClass": "Swing10",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing9",
+            "request": "launch",
+            "mainClass": "Swing9",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing8",
+            "request": "launch",
+            "mainClass": "Swing8",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing7",
+            "request": "launch",
+            "mainClass": "Swing7",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing6",
+            "request": "launch",
+            "mainClass": "Swing6",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing5",
+            "request": "launch",
+            "mainClass": "Swing5",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing4",
+            "request": "launch",
+            "mainClass": "Swing4",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing3",
+            "request": "launch",
+            "mainClass": "Swing3",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing2",
+            "request": "launch",
+            "mainClass": "Swing2",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Swing1",
+            "request": "launch",
+            "mainClass": "Swing1",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt12",
+            "request": "launch",
+            "mainClass": "Awt12",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Dict",
+            "request": "launch",
+            "mainClass": "Dict",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt10",
+            "request": "launch",
+            "mainClass": "Awt10",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt9",
+            "request": "launch",
+            "mainClass": "Awt9",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt8",
+            "request": "launch",
+            "mainClass": "Awt8",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt7",
+            "request": "launch",
+            "mainClass": "Awt7",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt6",
+            "request": "launch",
+            "mainClass": "Awt6",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt5",
+            "request": "launch",
+            "mainClass": "Awt5",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt4",
+            "request": "launch",
+            "mainClass": "Awt4",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt3",
+            "request": "launch",
+            "mainClass": "Awt3",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt2",
+            "request": "launch",
+            "mainClass": "Awt2",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Awt1",
+            "request": "launch",
+            "mainClass": "Awt1",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
             "name": "AVLTree",
             "request": "launch",
             "mainClass": "AVLTree",
