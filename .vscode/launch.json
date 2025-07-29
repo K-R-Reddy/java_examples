@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JDBC1",
+            "request": "launch",
+            "mainClass": "JDBC1",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Connect",
+            "request": "launch",
+            "mainClass": "Connect",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
             "name": "Networking7",
             "request": "launch",
             "mainClass": "Networking7",
