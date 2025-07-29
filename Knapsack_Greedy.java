@@ -17,6 +17,7 @@ public class Knapsack_Greedy{
                     System.out.println("Enter "+(i+1)+" profit : ");
                     p[i]=sc.nextInt();
                 }
+                sc.close();
                 double pw[]=new double[n];
                 double fw[]=new double[n];
                 Arrays.fill(fw,0);

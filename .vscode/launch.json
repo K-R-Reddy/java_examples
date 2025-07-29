@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Job_Sequencing_Greedy",
+            "request": "launch",
+            "mainClass": "Job_Sequencing_Greedy",
+            "projectName": "java_examples_989bf2b9"
+        },
+        {
+            "type": "java",
             "name": "JDBC1",
             "request": "launch",
             "mainClass": "JDBC1",
