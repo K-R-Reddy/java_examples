@@ -1,5 +1,5 @@
 import java.sql.*;
-public class Connect {
+public class JDBC {
 public static void main(String[] args) {
     Connection conn = null;
     String tableName;
